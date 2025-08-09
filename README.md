@@ -53,6 +53,8 @@ El gasto total es mayor en los clientes que se quedan, lo cual es de esperar, ya
 Para ejecutar el cuaderno y replicar el análisis, asegúrate de tener las siguientes librerías instaladas:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn
+```
+---
 
 ## 6. Autor
   Francisco Lledó
